@@ -34,7 +34,7 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-3-column-display-KjB8xAY9w)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-with-custom-css-baSXG-oLa)
 - Live Site URL: [Live Site](https://bmoore15v.github.io/FM-Profile-Card/)
 
 ## My process
